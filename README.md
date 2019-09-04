@@ -13,3 +13,10 @@ AWS Well-Architected Tool 可帮助您检查工作负载的状态，并将其与
 工作原理：
 ![Well-Architected Tool](https://d1.awsstatic.com/Well%20Architected/Product-Page-Diagram_AWS-Well-Architected-Tool_how-it-works.e9f085d311ba15660fd376c2773980abbeccb4a4.png)
 
+中文翻译：
+- [Operational Excellence (卓越运营)](operational_excellence.md)
+- [Security (安全性)](security.md)
+- [Reliability (可靠性)](reliability.md)
+- [Performance Efficiency (性能效率)](performance_efficiency.md)
+- [Cost Optimization (成本优化)](cost_optimization.md)
+
